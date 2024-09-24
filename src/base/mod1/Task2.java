@@ -1,4 +1,4 @@
-package base;
+package base.mod1;
 
 public class Task2 {
     static int[][] x = {{20, 34, 2}, {9, 12, 18}, {3, 4, 5}};
